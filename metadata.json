@@ -1,0 +1,8 @@
+{
+  "name": "Poker Position Master",
+  "description": "Simulador interativo de posições de poker para MTT 9-max com dicas para iniciantes e múltiplos formatos de mesa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
